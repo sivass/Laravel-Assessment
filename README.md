@@ -82,9 +82,6 @@ https://laravel.com/docs/11.x/sail
 The assessment has Laravel Sail setup, to start the project, candidate will required to first install [docker](https://www.docker.com/)
 
 ## Getting things up and running
-1. Install Laravel Sail
-    
-    `php artisan sail:install`
 
 1. Run docker containers in detached mode
 
